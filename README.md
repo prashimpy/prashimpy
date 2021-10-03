@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prashim-hack&show_icons=true&" alt="BinayakJha"/></p>
 
-## Some Of My Repositories:
+<!-- ## Some Of My Repositories: -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Prashim-hack&repo=machine-learning)](https://github.com/Prashim-hack/machine-learning) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinayakJha&repo=autoplot-web&show_owner)](https://github.com/BinayakJha/autoplot-web)
