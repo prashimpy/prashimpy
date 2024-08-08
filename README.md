@@ -3,7 +3,7 @@ Hi I am <strong>Prashim Timsina</strong> a Results-oriented Programmer and Resea
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prashim.py) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashim.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashimtimsina) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prashim.py) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prashim.py) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashim.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashimtpy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prashim.py) 
 
 # :man_technologist: A little bit about me
 
